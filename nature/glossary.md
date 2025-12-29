@@ -1,0 +1,2 @@
+# Glossary
+- [Project](../../networking-backend/prisma/schema.prisma): A project is a proposal for a product or service that is being built by an individual or a team of experts. The project is proposed by a person (Platform User) who has a desire to have his own business/product/service ([Project Model Definition](../../networking-backend/prisma/schema.prisma)).
